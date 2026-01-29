@@ -50,7 +50,7 @@ The backend handles user communication and notifications:
 - VS Code (Code Editor)
 - Git & GitHub (Version Control)
 
----
+```
 
 ## 📂 Project Structure
 
@@ -64,8 +64,7 @@ Edusity-College/
 │── contact.html → Contact page
 │── about.html → About / College info
 
-
----
+```
 
 
 ## 💻 How to Run Locally
