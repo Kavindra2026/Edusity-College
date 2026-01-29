@@ -1,8 +1,113 @@
-# React + Vite
+# 🎓 Edusity College Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Edusity is a modern, responsive educational website designed for managing college information, courses, departments, and student resources.  
+It is developed as a frontend project to showcase college details and features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+
+👉 https://edusity-collage.netlify.app/
+
+---
+
+## 🧩 Features
+
+- 🏫 Home Page with College Overview  
+- 📚 Courses / Departments Section  
+- 👨‍🏫 Faculty / Staff Information  
+- 📝 Admission Details  
+- 📍 Contact & Location  
+- 📱 Mobile-responsive design  
+- 🎨 Clean UI with Modern layout
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Rech Js
+
+### Tools
+- Netlify (Live Hosting)
+- VS Code (Code Editor)
+- Git & GitHub (Version Control)
+
+---
+
+## 📂 Project Structure
+
+Edusity-College/
+│── assets/ → Images, icons, fonts, media
+│── css/ → Stylesheets
+│── js/ → JavaScript files
+│── index.html → Main landing page
+│── courses.html → Courses / departments page
+│── contact.html → Contact page
+│── about.html → About / College info
+
+---
+
+## 💻 How to Run Locally
+
+### 1️⃣ Clone the Repo
+
+  git clone https://github.com/Kavindra2026/Edusity-College.git
+
+
+  
+### 2️⃣ Open in Browser
+
+https://edusity-collage.netlify.app/
+
+No server setup needed — pure static website.
+
+---
+
+## 📸 Screenshots
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/073ba775-6eb3-4d2f-a82a-54421aa2a2d1" />
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/5ff93f6e-2712-4bb8-9d84-8b3ae2c4de06" />
+
+---
+
+## 🧠 Learning Goals
+
+This project helped in learning:
+
+- Responsive Web Design  
+- Semantic HTML structure  
+- CSS layout techniques (Flexbox / Grid)  
+- Basic JavaScript interactions  
+- Hosting on Netlify
+
+---
+
+## 🔮 Future Improvements
+
+- Add dynamic content (CMS/API)
+- Search functionality for courses
+- Enrollment form with backend
+- Dark mode UI
+- Smooth scroll animations
+
+---
+
+## 👨‍💻 Author
+
+**Kavindra Singh**  
+Front-End Web Developer
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+## 📜 License
+
+This project is open source and for learning purposes.
