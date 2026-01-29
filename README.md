@@ -9,6 +9,15 @@ It is developed as a frontend project to showcase college details and features.
 
 👉 https://edusity-collage.netlify.app/
 
+
+
+
+
+----
+
+
+----
+
 ---
 
 ## 🧩 Features
