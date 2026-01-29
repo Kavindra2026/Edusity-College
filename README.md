@@ -54,16 +54,34 @@ The backend handles user communication and notifications:
 
 ## 📂 Project Structure
 
-
 Edusity-College/
-│── assets/ → Images, icons, fonts, media
-│── css/ → Stylesheets
-│── js/ → JavaScript files
-│── index.html → Main landing page
-│── courses.html → Courses / departments page
-│── contact.html → Contact page
-│── about.html → About / College info
-
+│── node_modules/          → Installed packages (auto-generated)
+│── public/
+│   │── assets/            → Images, icons, media files
+│
+│── src/
+│   │── components/        → Reusable React components
+│   │   │── About/
+│   │   │── Campus/
+│   │   │── Contact/
+│   │   │── Footer/
+│   │   │── Hero/
+│   │   │── Navbar/
+│   │   │── Program/
+│   │   │── Testimonials/
+│   │   │── Title/
+│   │   │── Video/
+│   │
+│   │── App.jsx            → Main App component
+│   │── main.jsx           → Entry point
+│   │── index.css          → Global styles
+│
+│── index.html             → Root HTML file
+│── package.json           → Project dependencies & scripts
+│── vite.config.js         → Vite configuration
+│── tailwind.config.js     → Tailwind CSS configuration
+│── README.md
+ 
 ```
 
 
