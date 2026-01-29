@@ -31,6 +31,20 @@ It is developed as a frontend project to showcase college details and features.
 - JavaScript
 - Rech Js
 
+----
+
+## 🔧 Backend Features
+
+The backend handles user communication and notifications:
+
+- **Contact Us Form Handling**  
+  Collects user queries, feedback, and admission inquiries.
+
+- **Automated Email Notifications**  
+  Sends email alerts to the admin whenever a form is submitted.
+
+----
+
 ### Tools
 - Netlify (Live Hosting)
 - VS Code (Code Editor)
