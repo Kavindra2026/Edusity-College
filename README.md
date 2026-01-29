@@ -54,6 +54,7 @@ The backend handles user communication and notifications:
 
 ## 📂 Project Structure
 
+
 Edusity-College/
 │── assets/ → Images, icons, fonts, media
 │── css/ → Stylesheets
@@ -63,7 +64,9 @@ Edusity-College/
 │── contact.html → Contact page
 │── about.html → About / College info
 
+
 ---
+
 
 ## 💻 How to Run Locally
 
