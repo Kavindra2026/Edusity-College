@@ -69,6 +69,8 @@ No server setup needed — pure static website.
 
 ## 📸 Screenshots
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/17bdfdf6-d8ed-4109-bb36-ab635760592c" />
+
+
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/f554d000-d4b7-4b51-800a-0f9490160086" />
 
 
